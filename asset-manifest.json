@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/reactmeal/static/css/main.1bb15beb.css",
-    "main.js": "/reactmeal/static/js/main.3a125c8a.js",
+    "main.css": "/reactmeal/static/css/main.c95c7567.css",
+    "main.js": "/reactmeal/static/js/main.32a7bef1.js",
     "static/media/meals.jpg": "/reactmeal/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/reactmeal/index.html",
-    "main.1bb15beb.css.map": "/reactmeal/static/css/main.1bb15beb.css.map",
-    "main.3a125c8a.js.map": "/reactmeal/static/js/main.3a125c8a.js.map"
+    "main.c95c7567.css.map": "/reactmeal/static/css/main.c95c7567.css.map",
+    "main.32a7bef1.js.map": "/reactmeal/static/js/main.32a7bef1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bb15beb.css",
-    "static/js/main.3a125c8a.js"
+    "static/css/main.c95c7567.css",
+    "static/js/main.32a7bef1.js"
   ]
 }
